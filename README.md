@@ -1,5 +1,2 @@
-# ACM Python Workshop Directory
-This is the Directory containing assets and tools to use along with the ACM Python Workshop
-
-
-s
+# ACM Workshop Slides
+All slides and presentation material is to be hosted here for easy access
